@@ -1,1 +1,11 @@
-{"ios": {"configuration": "Release"}} 
+{
+  "project": "melkaval",
+  "platform": "ios",
+  "github": {
+    "owner": "mohsen69a",
+    "repo": "melkaval-ios"
+  },
+  "ios": {
+    "configuration": "Release"
+  }
+}
