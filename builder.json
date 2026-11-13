@@ -1,0 +1,20 @@
+{
+  "project": "melkaval",
+  "platform": "ios",
+  "github": {
+    "owner": "mohsen69a",
+    "repo": "melkaval-ios"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "bundleId": "ir.melkaval"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
