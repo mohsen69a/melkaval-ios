@@ -7,5 +7,10 @@
   },
   "ios": {
     "configuration": "Release"
+  },
+  "profiles": {
+    "unsigned": {
+      "distribution": null
+    }
   }
 }
